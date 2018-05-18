@@ -1,0 +1,21 @@
+developer.ibm.com/code
+use the code and then manipulate it accordingly
+
+- IBM CODE COmmunity
+- IBM coder program
+- open source projects
+	cloud native computing foundation
+	node.js
+	Hyperledger
+- Bluemix is IBM cloud. Watson is set of API
+- Watsin apis
+	AI assistance
+	Empathy
+	Vision
+	Language
+	Speech
+	Data
+	Discovery
+x
+12factor.net
+	
